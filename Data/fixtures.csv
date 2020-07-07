@@ -1,0 +1,381 @@
+Round Number,Date,Location,Home,Away
+1,16-08-2019 21:00,San Mamés,Athletic Club,FC Barcelona
+1,17-08-2019 17:00,Abanca-Balaídos,RC Celta,Real Madrid
+1,17-08-2019 19:00,Mestalla,Valencia CF,Real Sociedad
+1,17-08-2019 20:00,Estadi de Son Moix,RCD Mallorca,SD Eibar
+1,17-08-2019 21:00,Estadio Municipal de Butarque,CD Leganés,C.A. Osasuna
+1,17-08-2019 21:00,Estadio de la Cerámica,Villarreal CF,Granada CF
+1,18-08-2019 17:00,Mendizorrotza,D. Alavés,Levante UD
+1,18-08-2019 19:00,RCDE Stadium,RCD Espanyol,Sevilla FC
+1,18-08-2019 21:00,Benito Villamarín,Real Betis,R. Valladolid CF
+1,18-08-2019 22:00,Wanda Metropolitano,Atlético de Madrid,Getafe CF
+2,23-08-2019 20:00,Nuevo Los Cármenes,Granada CF,Sevilla FC
+2,23-08-2019 22:00,Ciutat de València,Levante UD,Villarreal CF
+2,24-08-2019 17:00,El Sadar,C.A. Osasuna,SD Eibar
+2,24-08-2019 19:00,Estadio Santiago Bernabéu,Real Madrid,R. Valladolid CF
+2,24-08-2019 21:00,Abanca-Balaídos,RC Celta,Valencia CF
+2,24-08-2019 21:00,Coliseum Alfonso Pérez,Getafe CF,Athletic Club
+2,25-08-2019 17:00,Mendizorrotza,D. Alavés,RCD Espanyol
+2,25-08-2019 17:00,Estadi de Son Moix,RCD Mallorca,Real Sociedad
+2,25-08-2019 19:00,Estadio Municipal de Butarque,CD Leganés,Atlético de Madrid
+2,25-08-2019 21:00,Camp Nou,FC Barcelona,Real Betis
+3,30-08-2019 20:00,Ramón Sánchez Pizjuán,Sevilla FC,RC Celta
+3,30-08-2019 22:00,San Mamés,Athletic Club,Real Sociedad
+3,31-08-2019 17:00,El Sadar,C.A. Osasuna,FC Barcelona
+3,31-08-2019 19:00,Coliseum Alfonso Pérez,Getafe CF,D. Alavés
+3,31-08-2019 19:00,Ciutat de València,Levante UD,R. Valladolid CF
+3,31-08-2019 21:00,Benito Villamarín,Real Betis,CD Leganés
+3,01-09-2019 17:00,Mestalla,Valencia CF,RCD Mallorca
+3,01-09-2019 19:00,Wanda Metropolitano,Atlético de Madrid,SD Eibar
+3,01-09-2019 19:00,RCDE Stadium,RCD Espanyol,Granada CF
+3,01-09-2019 21:00,Estadio de la Cerámica,Villarreal CF,Real Madrid
+4,13-09-2019 21:00,Estadi de Son Moix,RCD Mallorca,Athletic Club
+4,14-09-2019 13:00,Estadio Santiago Bernabéu,Real Madrid,Levante UD
+4,14-09-2019 16:00,Estadio Municipal de Butarque,CD Leganés,Villarreal CF
+4,14-09-2019 18:30,Anoeta,Real Sociedad,Atlético de Madrid
+4,14-09-2019 21:00,Camp Nou,FC Barcelona,Valencia CF
+4,15-09-2019 12:00,Ipurua Municipal Stadium,SD Eibar,RCD Espanyol
+4,15-09-2019 14:00,Mendizorrotza,D. Alavés,Sevilla FC
+4,15-09-2019 16:00,Abanca-Balaídos,RC Celta,Granada CF
+4,15-09-2019 18:30,José Zorrilla,R. Valladolid CF,C.A. Osasuna
+4,15-09-2019 21:00,Benito Villamarín,Real Betis,Getafe CF
+5,20-09-2019 21:00,El Sadar,C.A. Osasuna,Real Betis
+5,21-09-2019 13:00,Estadio de la Cerámica,Villarreal CF,R. Valladolid CF
+5,21-09-2019 16:00,Ciutat de València,Levante UD,SD Eibar
+5,21-09-2019 18:30,Wanda Metropolitano,Atlético de Madrid,RC Celta
+5,21-09-2019 21:00,Nuevo Los Cármenes,Granada CF,FC Barcelona
+5,22-09-2019 12:00,Coliseum Alfonso Pérez,Getafe CF,RCD Mallorca
+5,22-09-2019 14:00,RCDE Stadium,RCD Espanyol,Real Sociedad
+5,22-09-2019 16:00,Mestalla,Valencia CF,CD Leganés
+5,22-09-2019 18:30,San Mamés,Athletic Club,D. Alavés
+5,22-09-2019 21:00,Ramón Sánchez Pizjuán,Sevilla FC,Real Madrid
+6,24-09-2019 19:00,José Zorrilla,R. Valladolid CF,Granada CF
+6,24-09-2019 20:00,Benito Villamarín,Real Betis,Levante UD
+6,24-09-2019 21:00,Camp Nou,FC Barcelona,Villarreal CF
+6,25-09-2019 19:00,Estadio Municipal de Butarque,CD Leganés,Athletic Club
+6,25-09-2019 19:00,Estadi de Son Moix,RCD Mallorca,Atlético de Madrid
+6,25-09-2019 20:00,Mestalla,Valencia CF,Getafe CF
+6,25-09-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,C.A. Osasuna
+6,26-09-2019 19:00,Ipurua Municipal Stadium,SD Eibar,Sevilla FC
+6,26-09-2019 20:00,Abanca-Balaídos,RC Celta,RCD Espanyol
+6,26-09-2019 21:00,Anoeta,Real Sociedad,D. Alavés
+7,27-09-2019 21:00,Estadio de la Cerámica,Villarreal CF,Real Betis
+7,28-09-2019 13:00,San Mamés,Athletic Club,Valencia CF
+7,28-09-2019 16:00,Coliseum Alfonso Pérez,Getafe CF,FC Barcelona
+7,28-09-2019 18:30,Nuevo Los Cármenes,Granada CF,CD Leganés
+7,28-09-2019 21:00,Wanda Metropolitano,Atlético de Madrid,Real Madrid
+7,29-09-2019 12:00,RCDE Stadium,RCD Espanyol,R. Valladolid CF
+7,29-09-2019 14:00,Ipurua Municipal Stadium,SD Eibar,RC Celta
+7,29-09-2019 16:00,Mendizorrotza,D. Alavés,RCD Mallorca
+7,29-09-2019 18:30,Ciutat de València,Levante UD,C.A. Osasuna
+7,29-09-2019 21:00,Ramón Sánchez Pizjuán,Sevilla FC,Real Sociedad
+8,04-10-2019 21:00,Benito Villamarín,Real Betis,SD Eibar
+8,05-10-2019 13:00,Estadio Municipal de Butarque,CD Leganés,Levante UD
+8,05-10-2019 16:00,Estadio Santiago Bernabéu,Real Madrid,Granada CF
+8,05-10-2019 18:30,Mestalla,Valencia CF,D. Alavés
+8,05-10-2019 21:00,El Sadar,C.A. Osasuna,Villarreal CF
+8,06-10-2019 12:00,Estadi de Son Moix,RCD Mallorca,RCD Espanyol
+8,06-10-2019 14:00,Abanca-Balaídos,RC Celta,Athletic Club
+8,06-10-2019 16:00,José Zorrilla,R. Valladolid CF,Atlético de Madrid
+8,06-10-2019 18:30,Anoeta,Real Sociedad,Getafe CF
+8,06-10-2019 21:00,Camp Nou,FC Barcelona,Sevilla FC
+9,18-10-2019 21:00,Nuevo Los Cármenes,Granada CF,C.A. Osasuna
+9,19-10-2019 13:00,Ipurua Municipal Stadium,SD Eibar,FC Barcelona
+9,19-10-2019 16:00,Wanda Metropolitano,Atlético de Madrid,Valencia CF
+9,19-10-2019 18:30,Coliseum Alfonso Pérez,Getafe CF,CD Leganés
+9,19-10-2019 21:00,Estadi de Son Moix,RCD Mallorca,Real Madrid
+9,20-10-2019 12:00,Mendizorrotza,D. Alavés,RC Celta
+9,20-10-2019 14:00,Anoeta,Real Sociedad,Real Betis
+9,20-10-2019 16:00,RCDE Stadium,RCD Espanyol,Villarreal CF
+9,20-10-2019 18:30,San Mamés,Athletic Club,R. Valladolid CF
+9,20-10-2019 21:00,Ramón Sánchez Pizjuán,Sevilla FC,Levante UD
+10,25-10-2019 21:00,Estadio de la Cerámica,Villarreal CF,D. Alavés
+10,26-10-2019 16:00,Estadio Municipal de Butarque,CD Leganés,RCD Mallorca
+10,26-10-2019 18:30,José Zorrilla,R. Valladolid CF,SD Eibar
+10,26-10-2019 21:00,Wanda Metropolitano,Atlético de Madrid,Athletic Club
+10,27-10-2019 12:00,Abanca-Balaídos,RC Celta,Real Sociedad
+10,27-10-2019 14:00,Nuevo Los Cármenes,Granada CF,Real Betis
+10,27-10-2019 16:00,Ciutat de València,Levante UD,RCD Espanyol
+10,27-10-2019 18:30,Ramón Sánchez Pizjuán,Sevilla FC,Getafe CF
+10,27-10-2019 21:00,El Sadar,C.A. Osasuna,Valencia CF
+11,29-10-2019 19:00,Mendizorrotza,D. Alavés,Atlético de Madrid
+11,29-10-2019 21:15,Camp Nou,FC Barcelona,R. Valladolid CF
+11,30-10-2019 19:00,Anoeta,Real Sociedad,Levante UD
+11,30-10-2019 19:00,Mestalla,Valencia CF,Sevilla FC
+11,30-10-2019 20:00,San Mamés,Athletic Club,RCD Espanyol
+11,30-10-2019 21:00,Benito Villamarín,Real Betis,RC Celta
+11,30-10-2019 21:15,Estadio Santiago Bernabéu,Real Madrid,CD Leganés
+11,31-10-2019 19:00,Ipurua Municipal Stadium,SD Eibar,Villarreal CF
+11,31-10-2019 19:00,Estadi de Son Moix,RCD Mallorca,C.A. Osasuna
+11,31-10-2019 21:15,Coliseum Alfonso Pérez,Getafe CF,Granada CF
+12,02-11-2019 13:00,RCDE Stadium,RCD Espanyol,Valencia CF
+12,02-11-2019 16:00,Ciutat de València,Levante UD,FC Barcelona
+12,02-11-2019 18:30,Ramón Sánchez Pizjuán,Sevilla FC,Atlético de Madrid
+12,02-11-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,Real Betis
+12,03-11-2019 12:00,José Zorrilla,R. Valladolid CF,RCD Mallorca
+12,03-11-2019 14:00,Estadio de la Cerámica,Villarreal CF,Athletic Club
+12,03-11-2019 16:00,El Sadar,C.A. Osasuna,D. Alavés
+12,03-11-2019 18:30,Abanca-Balaídos,RC Celta,Getafe CF
+12,03-11-2019 18:30,Estadio Municipal de Butarque,CD Leganés,SD Eibar
+12,03-11-2019 21:00,Nuevo Los Cármenes,Granada CF,Real Sociedad
+13,08-11-2019 21:00,Anoeta,Real Sociedad,CD Leganés
+13,09-11-2019 13:00,Mendizorrotza,D. Alavés,R. Valladolid CF
+13,09-11-2019 16:00,Mestalla,Valencia CF,Granada CF
+13,09-11-2019 18:30,Ipurua Municipal Stadium,SD Eibar,Real Madrid
+13,09-11-2019 21:00,Camp Nou,FC Barcelona,RC Celta
+13,10-11-2019 14:00,San Mamés,Athletic Club,Levante UD
+13,10-11-2019 16:00,Wanda Metropolitano,Atlético de Madrid,RCD Espanyol
+13,10-11-2019 18:30,Coliseum Alfonso Pérez,Getafe CF,C.A. Osasuna
+13,10-11-2019 21:00,Benito Villamarín,Real Betis,Sevilla FC
+13,11-11-2019 00:00,Estadi de Son Moix,RCD Mallorca,Villarreal CF
+14,22-11-2019 21:00,Ciutat de València,Levante UD,RCD Mallorca
+14,23-11-2019 13:00,Estadio Municipal de Butarque,CD Leganés,FC Barcelona
+14,23-11-2019 16:00,Benito Villamarín,Real Betis,Valencia CF
+14,23-11-2019 18:30,Nuevo Los Cármenes,Granada CF,Atlético de Madrid
+14,23-11-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,Real Sociedad
+14,24-11-2019 12:00,RCDE Stadium,RCD Espanyol,Getafe CF
+14,24-11-2019 14:00,El Sadar,C.A. Osasuna,Athletic Club
+14,24-11-2019 16:00,Ipurua Municipal Stadium,SD Eibar,D. Alavés
+14,24-11-2019 18:30,Estadio de la Cerámica,Villarreal CF,RC Celta
+14,24-11-2019 21:00,José Zorrilla,R. Valladolid CF,Sevilla FC
+15,29-11-2019 21:00,Abanca-Balaídos,RC Celta,R. Valladolid CF
+15,30-11-2019 13:00,Mendizorrotza,D. Alavés,Real Madrid
+15,30-11-2019 16:00,Anoeta,Real Sociedad,SD Eibar
+15,30-11-2019 18:30,Estadi de Son Moix,RCD Mallorca,Real Betis
+15,30-11-2019 21:00,Mestalla,Valencia CF,Villarreal CF
+15,01-12-2019 12:00,Ramón Sánchez Pizjuán,Sevilla FC,CD Leganés
+15,01-12-2019 14:00,San Mamés,Athletic Club,Granada CF
+15,01-12-2019 16:00,RCDE Stadium,RCD Espanyol,C.A. Osasuna
+15,01-12-2019 18:30,Coliseum Alfonso Pérez,Getafe CF,Levante UD
+15,01-12-2019 21:00,Wanda Metropolitano,Atlético de Madrid,FC Barcelona
+16,06-12-2019 21:00,Estadio de la Cerámica,Villarreal CF,Atlético de Madrid
+16,07-12-2019 13:00,Estadio Santiago Bernabéu,Real Madrid,RCD Espanyol
+16,07-12-2019 16:00,Nuevo Los Cármenes,Granada CF,D. Alavés
+16,07-12-2019 18:30,Ciutat de València,Levante UD,Valencia CF
+16,07-12-2019 21:00,Camp Nou,FC Barcelona,RCD Mallorca
+16,08-12-2019 12:00,Ipurua Municipal Stadium,SD Eibar,Getafe CF
+16,08-12-2019 14:00,Benito Villamarín,Real Betis,Athletic Club
+16,08-12-2019 16:00,José Zorrilla,R. Valladolid CF,Real Sociedad
+16,08-12-2019 18:30,Estadio Municipal de Butarque,CD Leganés,RC Celta
+16,08-12-2019 21:00,El Sadar,C.A. Osasuna,Sevilla FC
+17,13-12-2019 21:00,Mendizorrotza,D. Alavés,CD Leganés
+17,14-12-2019 13:00,Nuevo Los Cármenes,Granada CF,Levante UD
+17,14-12-2019 16:00,Anoeta,Real Sociedad,FC Barcelona
+17,14-12-2019 18:30,San Mamés,Athletic Club,SD Eibar
+17,14-12-2019 21:00,Wanda Metropolitano,Atlético de Madrid,C.A. Osasuna
+17,15-12-2019 12:00,Coliseum Alfonso Pérez,Getafe CF,R. Valladolid CF
+17,15-12-2019 14:00,Abanca-Balaídos,RC Celta,RCD Mallorca
+17,15-12-2019 16:00,RCDE Stadium,RCD Espanyol,Real Betis
+17,15-12-2019 18:30,Ramón Sánchez Pizjuán,Sevilla FC,Villarreal CF
+17,15-12-2019 21:00,Mestalla,Valencia CF,Real Madrid
+17,18-12-2019 20:00,Camp Nou,FC Barcelona,Real Madrid
+18,20-12-2019 21:00,Ipurua Municipal Stadium,SD Eibar,Granada CF
+18,21-12-2019 13:00,Estadi de Son Moix,RCD Mallorca,Sevilla FC
+18,21-12-2019 16:00,Camp Nou,FC Barcelona,D. Alavés
+18,21-12-2019 18:30,Estadio de la Cerámica,Villarreal CF,Getafe CF
+18,21-12-2019 21:00,José Zorrilla,R. Valladolid CF,Valencia CF
+18,22-12-2019 12:00,Estadio Municipal de Butarque,CD Leganés,RCD Espanyol
+18,22-12-2019 14:00,El Sadar,C.A. Osasuna,Real Sociedad
+18,22-12-2019 16:00,Benito Villamarín,Real Betis,Atlético de Madrid
+18,22-12-2019 18:30,Ciutat de València,Levante UD,RC Celta
+18,22-12-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,Athletic Club
+19,03-01-2020 19:00,José Zorrilla,R. Valladolid CF,CD Leganés
+19,03-01-2020 21:00,Ramón Sánchez Pizjuán,Sevilla FC,Athletic Club
+19,04-01-2020 13:00,Mestalla,Valencia CF,SD Eibar
+19,04-01-2020 16:00,Coliseum Alfonso Pérez,Getafe CF,Real Madrid
+19,04-01-2020 18:30,Wanda Metropolitano,Atlético de Madrid,Levante UD
+19,04-01-2020 21:00,RCDE Stadium,RCD Espanyol,FC Barcelona
+19,05-01-2020 12:00,Nuevo Los Cármenes,Granada CF,RCD Mallorca
+19,05-01-2020 14:00,Anoeta,Real Sociedad,Villarreal CF
+19,05-01-2020 16:00,Mendizorrotza,D. Alavés,Real Betis
+19,05-01-2020 21:00,Abanca-Balaídos,RC Celta,C.A. Osasuna
+20,17-01-2020 21:00,Estadio Municipal de Butarque,CD Leganés,Getafe CF
+20,18-01-2020 13:00,Ciutat de València,Levante UD,D. Alavés
+20,18-01-2020 16:00,Estadio Santiago Bernabéu,Real Madrid,Sevilla FC
+20,18-01-2020 18:30,El Sadar,C.A. Osasuna,R. Valladolid CF
+20,18-01-2020 21:00,Ipurua Municipal Stadium,SD Eibar,Atlético de Madrid
+20,19-01-2020 12:00,Estadi de Son Moix,RCD Mallorca,Valencia CF
+20,19-01-2020 14:00,Benito Villamarín,Real Betis,Real Sociedad
+20,19-01-2020 16:00,Estadio de la Cerámica,Villarreal CF,RCD Espanyol
+20,19-01-2020 18:30,San Mamés,Athletic Club,RC Celta
+20,19-01-2020 21:00,Camp Nou,FC Barcelona,Granada CF
+21,24-01-2020 21:00,El Sadar,C.A. Osasuna,Levante UD
+21,25-01-2020 13:00,RCDE Stadium,RCD Espanyol,Athletic Club
+21,25-01-2020 16:00,Mestalla,Valencia CF,FC Barcelona
+21,25-01-2020 18:30,Mendizorrotza,D. Alavés,Villarreal CF
+21,25-01-2020 21:00,Ramón Sánchez Pizjuán,Sevilla FC,Granada CF
+21,26-01-2020 12:00,Wanda Metropolitano,Atlético de Madrid,CD Leganés
+21,26-01-2020 14:00,Abanca-Balaídos,RC Celta,SD Eibar
+21,26-01-2020 16:00,Coliseum Alfonso Pérez,Getafe CF,Real Betis
+21,26-01-2020 18:30,Anoeta,Real Sociedad,RCD Mallorca
+21,26-01-2020 21:00,José Zorrilla,R. Valladolid CF,Real Madrid
+22,01-02-2020 13:00,Nuevo Los Cármenes,Granada CF,RCD Espanyol
+22,01-02-2020 16:00,Estadio Santiago Bernabéu,Real Madrid,Atlético de Madrid
+22,01-02-2020 18:30,Estadi de Son Moix,RCD Mallorca,R. Valladolid CF
+22,01-02-2020 21:00,Mestalla,Valencia CF,RC Celta
+22,02-02-2020 12:00,Estadio Municipal de Butarque,CD Leganés,Real Sociedad
+22,02-02-2020 14:00,Ipurua Municipal Stadium,SD Eibar,Real Betis
+22,02-02-2020 16:00,San Mamés,Athletic Club,Getafe CF
+22,02-02-2020 18:30,Ramón Sánchez Pizjuán,Sevilla FC,D. Alavés
+22,02-02-2020 18:30,Estadio de la Cerámica,Villarreal CF,C.A. Osasuna
+22,02-02-2020 21:00,Camp Nou,FC Barcelona,Levante UD
+23,07-02-2020 21:00,Mendizorrotza,D. Alavés,SD Eibar
+23,08-02-2020 13:00,Ciutat de València,Levante UD,CD Leganés
+23,08-02-2020 16:00,Coliseum Alfonso Pérez,Getafe CF,Valencia CF
+23,08-02-2020 18:30,José Zorrilla,R. Valladolid CF,Villarreal CF
+23,08-02-2020 21:00,Wanda Metropolitano,Atlético de Madrid,Granada CF
+23,09-02-2020 12:00,RCDE Stadium,RCD Espanyol,RCD Mallorca
+23,09-02-2020 14:00,Anoeta,Real Sociedad,Athletic Club
+23,09-02-2020 16:00,El Sadar,C.A. Osasuna,Real Madrid
+23,09-02-2020 18:30,Abanca-Balaídos,RC Celta,Sevilla FC
+23,09-02-2020 21:00,Benito Villamarín,Real Betis,FC Barcelona
+24,14-02-2020 21:00,Mestalla,Valencia CF,Atlético de Madrid
+24,15-02-2020 13:00,Estadi de Son Moix,RCD Mallorca,D. Alavés
+24,15-02-2020 16:00,Camp Nou,FC Barcelona,Getafe CF
+24,15-02-2020 18:30,Estadio de la Cerámica,Villarreal CF,Levante UD
+24,15-02-2020 21:00,Nuevo Los Cármenes,Granada CF,R. Valladolid CF
+24,16-02-2020 12:00,Ramón Sánchez Pizjuán,Sevilla FC,RCD Espanyol
+24,16-02-2020 14:00,Estadio Municipal de Butarque,CD Leganés,Real Betis
+24,16-02-2020 18:30,San Mamés,Athletic Club,C.A. Osasuna
+24,16-02-2020 21:00,Estadio Santiago Bernabéu,Real Madrid,RC Celta
+25,21-02-2020 21:00,Benito Villamarín,Real Betis,RCD Mallorca
+25,22-02-2020 13:00,Abanca-Balaídos,RC Celta,CD Leganés
+25,22-02-2020 16:00,Camp Nou,FC Barcelona,SD Eibar
+25,22-02-2020 18:30,Anoeta,Real Sociedad,Valencia CF
+25,22-02-2020 21:00,Ciutat de València,Levante UD,Real Madrid
+25,23-02-2020 12:00,El Sadar,C.A. Osasuna,Granada CF
+25,23-02-2020 14:00,Mendizorrotza,D. Alavés,Athletic Club
+25,23-02-2020 16:00,José Zorrilla,R. Valladolid CF,RCD Espanyol
+25,23-02-2020 18:30,Coliseum Alfonso Pérez,Getafe CF,Sevilla FC
+25,23-02-2020 21:00,Wanda Metropolitano,Atlético de Madrid,Villarreal CF
+26,28-02-2020 21:00,Anoeta,Real Sociedad,R. Valladolid CF
+26,29-02-2020 13:00,Ipurua Municipal Stadium,SD Eibar,Levante UD
+26,29-02-2020 16:00,Mestalla,Valencia CF,Real Betis
+26,29-02-2020 18:30,Estadio Municipal de Butarque,CD Leganés,D. Alavés
+26,29-02-2020 21:00,Nuevo Los Cármenes,Granada CF,RC Celta
+26,01-03-2020 12:00,Ramón Sánchez Pizjuán,Sevilla FC,C.A. Osasuna
+26,01-03-2020 14:00,San Mamés,Athletic Club,Villarreal CF
+26,01-03-2020 16:00,RCDE Stadium,RCD Espanyol,Atlético de Madrid
+26,01-03-2020 18:30,Estadi de Son Moix,RCD Mallorca,Getafe CF
+26,01-03-2020 21:00,Estadio Santiago Bernabéu,Real Madrid,FC Barcelona
+27,06-03-2020 21:00,Mendizorrotza,D. Alavés,Valencia CF
+27,07-03-2020 13:00,Ipurua Municipal Stadium,SD Eibar,RCD Mallorca
+27,07-03-2020 16:00,Wanda Metropolitano,Atlético de Madrid,Sevilla FC
+27,07-03-2020 18:30,Camp Nou,FC Barcelona,Real Sociedad
+27,07-03-2020 21:00,Coliseum Alfonso Pérez,Getafe CF,RC Celta
+27,08-03-2020 12:00,El Sadar,C.A. Osasuna,RCD Espanyol
+27,08-03-2020 14:00,José Zorrilla,R. Valladolid CF,Athletic Club
+27,08-03-2020 16:00,Ciutat de València,Levante UD,Granada CF
+27,08-03-2020 18:30,Estadio de la Cerámica,Villarreal CF,CD Leganés
+27,08-03-2020 21:00,Benito Villamarín,Real Betis,Real Madrid
+27,10-03-2020 20:00,Ipurua Municipal Stadium,SD Eibar,Real Sociedad
+28,11-06-2020 22:00,Ramón Sánchez Pizjuán,Sevilla FC,Real Betis
+28,12-06-2020 19:30,Nuevo Los Cármenes,Granada CF,Getafe CF
+28,12-06-2020 22:00,Mestalla,Valencia CF,Levante UD
+28,13-06-2020 14:00,RCDE Stadium,RCD Espanyol,D. Alavés
+28,13-06-2020 17:00,Abanca-Balaídos,RC Celta,Villarreal CF
+28,13-06-2020 19:30,Estadio Municipal de Butarque,CD Leganés,R. Valladolid CF
+28,13-06-2020 22:00,Estadi de Son Moix,RCD Mallorca,FC Barcelona
+28,14-06-2020 14:00,San Mamés,Athletic Club,Atlético de Madrid
+28,14-06-2020 19:30,Estadio Alfredo Di Stéfano,Real Madrid,SD Eibar
+28,14-06-2020 22:00,Anoeta,Real Sociedad,C.A. Osasuna
+29,15-06-2020 19:30,Estadio Camilo Cano,Levante UD,Sevilla FC
+29,15-06-2020 22:00,Benito Villamarín,Real Betis,Granada CF
+29,16-06-2020 19:30,Coliseum Alfonso Pérez,Getafe CF,RCD Espanyol
+29,16-06-2020 19:30,Estadio de la Cerámica,Villarreal CF,RCD Mallorca
+29,16-06-2020 22:00,Camp Nou,FC Barcelona,CD Leganés
+29,17-06-2020 19:30,Ipurua Municipal Stadium,SD Eibar,Athletic Club
+29,17-06-2020 19:30,José Zorrilla,R. Valladolid CF,RC Celta
+29,17-06-2020 22:00,El Sadar,C.A. Osasuna,Atlético de Madrid
+29,18-06-2020 19:30,Mendizorrotza,D. Alavés,Real Sociedad
+29,18-06-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,Valencia CF
+30,19-06-2020 19:30,Nuevo Los Cármenes,Granada CF,Villarreal CF
+30,19-06-2020 19:30,Estadi de Son Moix,RCD Mallorca,CD Leganés
+30,19-06-2020 22:00,Ramón Sánchez Pizjuán,Sevilla FC,FC Barcelona
+30,20-06-2020 14:00,RCDE Stadium,RCD Espanyol,Levante UD
+30,20-06-2020 17:00,San Mamés,Athletic Club,Real Betis
+30,20-06-2020 19:30,Coliseum Alfonso Pérez,Getafe CF,SD Eibar
+30,20-06-2020 22:00,Wanda Metropolitano,Atlético de Madrid,R. Valladolid CF
+30,21-06-2020 14:00,Abanca-Balaídos,RC Celta,D. Alavés
+30,21-06-2020 19:30,Mestalla,Valencia CF,C.A. Osasuna
+30,21-06-2020 22:00,Anoeta,Real Sociedad,Real Madrid
+31,22-06-2020 19:30,Estadio de la Cerámica,Villarreal CF,Sevilla FC
+31,22-06-2020 22:00,Estadio Municipal de Butarque,CD Leganés,Granada CF
+31,23-06-2020 19:30,Estadio Camilo Cano,Levante UD,Atlético de Madrid
+31,23-06-2020 19:30,José Zorrilla,R. Valladolid CF,Getafe CF
+31,23-06-2020 22:00,Camp Nou,FC Barcelona,Athletic Club
+31,24-06-2020 19:30,Mendizorrotza,D. Alavés,C.A. Osasuna
+31,24-06-2020 19:30,Anoeta,Real Sociedad,RC Celta
+31,24-06-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,RCD Mallorca
+31,25-06-2020 19:30,Ipurua Municipal Stadium,SD Eibar,Valencia CF
+31,25-06-2020 22:00,Benito Villamarín,Real Betis,RCD Espanyol
+32,26-06-2020 22:00,Ramón Sánchez Pizjuán,Sevilla FC,R. Valladolid CF
+32,27-06-2020 14:00,San Mamés,Athletic Club,RCD Mallorca
+32,27-06-2020 17:00,Abanca-Balaídos,RC Celta,FC Barcelona
+32,27-06-2020 19:30,El Sadar,C.A. Osasuna,CD Leganés
+32,27-06-2020 22:00,Wanda Metropolitano,Atlético de Madrid,D. Alavés
+32,28-06-2020 14:00,Estadio Camilo Cano,Levante UD,Real Betis
+32,28-06-2020 17:00,Estadio de la Cerámica,Villarreal CF,Valencia CF
+32,28-06-2020 19:30,Nuevo Los Cármenes,Granada CF,SD Eibar
+32,28-06-2020 22:00,RCDE Stadium,RCD Espanyol,Real Madrid
+32,29-06-2020 22:00,Coliseum Alfonso Pérez,Getafe CF,Real Sociedad
+33,30-06-2020 19:30,Estadi de Son Moix,RCD Mallorca,RC Celta
+33,30-06-2020 21:00,Estadio Municipal de Butarque,CD Leganés,Sevilla FC
+33,30-06-2020 22:00,Camp Nou,FC Barcelona,Atlético de Madrid
+33,01-07-2020 19:30,Mendizorrotza,D. Alavés,Granada CF
+33,01-07-2020 19:30,Mestalla,Valencia CF,Athletic Club
+33,01-07-2020 22:00,Benito Villamarín,Real Betis,Villarreal CF
+33,01-07-2020 22:00,José Zorrilla,R. Valladolid CF,Levante UD
+33,02-07-2020 19:30,Ipurua Municipal Stadium,SD Eibar,C.A. Osasuna
+33,02-07-2020 19:30,Anoeta,Real Sociedad,RCD Espanyol
+33,02-07-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,Getafe CF
+34,03-07-2020 22:00,Wanda Metropolitano,Atlético de Madrid,RCD Mallorca
+34,04-07-2020 17:00,Abanca-Balaídos,RC Celta,Real Betis
+34,04-07-2020 19:30,José Zorrilla,R. Valladolid CF,D. Alavés
+34,04-07-2020 22:00,Nuevo Los Cármenes,Granada CF,Valencia CF
+34,05-07-2020 14:00,San Mamés,Athletic Club,Real Madrid
+34,05-07-2020 17:00,RCDE Stadium,RCD Espanyol,CD Leganés
+34,05-07-2020 19:30,El Sadar,C.A. Osasuna,Getafe CF
+34,05-07-2020 22:00,Estadio de la Cerámica,Villarreal CF,FC Barcelona
+34,06-07-2020 19:30,Estadio Camilo Cano,Levante UD,Real Sociedad
+34,06-07-2020 22:00,Ramón Sánchez Pizjuán,Sevilla FC,SD Eibar
+35,07-07-2020 19:30,Mestalla,Valencia CF,R. Valladolid CF
+35,07-07-2020 22:00,Abanca-Balaídos,RC Celta,Atlético de Madrid
+35,08-07-2020 19:30,Benito Villamarín,Real Betis,C.A. Osasuna
+35,08-07-2020 19:30,Coliseum Alfonso Pérez,Getafe CF,Villarreal CF
+35,08-07-2020 22:00,Camp Nou,FC Barcelona,RCD Espanyol
+35,09-07-2020 19:30,Ipurua Municipal Stadium,SD Eibar,CD Leganés
+35,09-07-2020 19:30,Estadi de Son Moix,RCD Mallorca,Levante UD
+35,09-07-2020 22:00,San Mamés,Athletic Club,Sevilla FC
+35,10-07-2020 19:30,Anoeta,Real Sociedad,Granada CF
+35,10-07-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,D. Alavés
+36,12-07-2020 21:00,Mendizorrotza,D. Alavés,Getafe CF
+36,12-07-2020 21:00,Wanda Metropolitano,Atlético de Madrid,Real Betis
+36,12-07-2020 21:00,RCDE Stadium,RCD Espanyol,SD Eibar
+36,12-07-2020 21:00,Nuevo Los Cármenes,Granada CF,Real Madrid
+36,12-07-2020 21:00,Estadio Municipal de Butarque,CD Leganés,Valencia CF
+36,12-07-2020 21:00,Estadio Camilo Cano,Levante UD,Athletic Club
+36,12-07-2020 21:00,El Sadar,C.A. Osasuna,RC Celta
+36,12-07-2020 21:00,Ramón Sánchez Pizjuán,Sevilla FC,RCD Mallorca
+36,12-07-2020 21:00,Estadio de la Cerámica,Villarreal CF,Real Sociedad
+36,12-07-2020 21:00,José Zorrilla,R. Valladolid CF,FC Barcelona
+37,15-07-2020 21:00,San Mamés,Athletic Club,CD Leganés
+37,15-07-2020 21:00,Camp Nou,FC Barcelona,C.A. Osasuna
+37,15-07-2020 21:00,Benito Villamarín,Real Betis,D. Alavés
+37,15-07-2020 21:00,Abanca-Balaídos,RC Celta,Levante UD
+37,15-07-2020 21:00,Ipurua Municipal Stadium,SD Eibar,R. Valladolid CF
+37,15-07-2020 21:00,Coliseum Alfonso Pérez,Getafe CF,Atlético de Madrid
+37,15-07-2020 21:00,Estadi de Son Moix,RCD Mallorca,Granada CF
+37,15-07-2020 21:00,Estadio Alfredo Di Stéfano,Real Madrid,Villarreal CF
+37,15-07-2020 21:00,Anoeta,Real Sociedad,Sevilla FC
+37,15-07-2020 21:00,Mestalla,Valencia CF,RCD Espanyol
+38,19-07-2020 21:00,Mendizorrotza,D. Alavés,FC Barcelona
+38,19-07-2020 21:00,Wanda Metropolitano,Atlético de Madrid,Real Sociedad
+38,19-07-2020 21:00,RCDE Stadium,RCD Espanyol,RC Celta
+38,19-07-2020 21:00,Nuevo Los Cármenes,Granada CF,Athletic Club
+38,19-07-2020 21:00,Estadio Municipal de Butarque,CD Leganés,Real Madrid
+38,19-07-2020 21:00,Estadio Camilo Cano,Levante UD,Getafe CF
+38,19-07-2020 21:00,El Sadar,C.A. Osasuna,RCD Mallorca
+38,19-07-2020 21:00,Ramón Sánchez Pizjuán,Sevilla FC,Valencia CF
+38,19-07-2020 21:00,Estadio de la Cerámica,Villarreal CF,SD Eibar
+38,19-07-2020 21:00,José Zorrilla,R. Valladolid CF,Real Betis
