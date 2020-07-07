@@ -1,0 +1,381 @@
+,Round Number,Date,Location,HomeTeam,AwayTeam,H,A,D,prediction
+0,1,16-08-2019 21:00,San Mamés,Ath Bilbao,Barcelona,0.55,0.27,0.19,H
+1,1,17-08-2019 17:00,Abanca-Balaídos,Celta,Real Madrid,0.43,0.3,0.28,H
+2,1,17-08-2019 19:00,Mestalla,Valencia,Sociedad,0.55,0.19,0.27,H
+3,1,17-08-2019 20:00,Estadi de Son Moix,Mallorca,Eibar,0.44,0.29,0.28,H
+4,1,17-08-2019 21:00,Estadio Municipal de Butarque,Leganes,Osasuna,0.54,0.25,0.22,H
+5,1,17-08-2019 21:00,Estadio de la Cerámica,Villarreal,Granada,0.5,0.25,0.26,H
+6,1,18-08-2019 17:00,Mendizorrotza,Alaves,Levante,0.46,0.26,0.29,H
+7,1,18-08-2019 19:00,RCDE Stadium,Espanol,Sevilla,0.3,0.43,0.28,A
+8,1,18-08-2019 21:00,Benito Villamarín,Betis,Valladolid,0.54,0.16,0.31,H
+9,1,18-08-2019 22:00,Wanda Metropolitano,Ath Madrid,Getafe,0.42,0.33,0.26,H
+10,2,23-08-2019 20:00,Nuevo Los Cármenes,Granada,Sevilla,0.4,0.28,0.33,H
+11,2,23-08-2019 22:00,Ciutat de València,Levante,Villarreal,0.68,0.14,0.19,H
+12,2,24-08-2019 17:00,El Sadar,Osasuna,Eibar,0.51,0.18,0.32,H
+13,2,24-08-2019 19:00,Estadio Santiago Bernabéu,Real Madrid,Valladolid,0.4,0.27,0.34,H
+14,2,24-08-2019 21:00,Abanca-Balaídos,Celta,Valencia,0.46,0.27,0.28,H
+15,2,24-08-2019 21:00,Coliseum Alfonso Pérez,Getafe,Ath Bilbao,0.46,0.31,0.24,H
+16,2,25-08-2019 17:00,Mendizorrotza,Alaves,Espanol,0.45,0.27,0.29,H
+17,2,25-08-2019 17:00,Estadi de Son Moix,Mallorca,Sociedad,0.56,0.23,0.22,H
+18,2,25-08-2019 19:00,Estadio Municipal de Butarque,Leganes,Ath Madrid,0.51,0.26,0.24,H
+19,2,25-08-2019 21:00,Camp Nou,Barcelona,Betis,0.6,0.24,0.17,H
+20,3,30-08-2019 20:00,Ramón Sánchez Pizjuán,Sevilla,Celta,0.4,0.35,0.26,H
+21,3,30-08-2019 22:00,San Mamés,Ath Bilbao,Sociedad,0.45,0.31,0.25,H
+22,3,31-08-2019 17:00,El Sadar,Osasuna,Barcelona,0.43,0.34,0.24,H
+23,3,31-08-2019 19:00,Coliseum Alfonso Pérez,Getafe,Alaves,0.29,0.49,0.23,A
+24,3,31-08-2019 19:00,Ciutat de València,Levante,Valladolid,0.44,0.29,0.28,H
+25,3,31-08-2019 21:00,Benito Villamarín,Betis,Leganes,0.24,0.5,0.27,A
+26,3,01-09-2019 17:00,Mestalla,Valencia,Mallorca,0.36,0.36,0.29,D
+27,3,01-09-2019 19:00,Wanda Metropolitano,Ath Madrid,Eibar,0.32,0.45,0.24,A
+28,3,01-09-2019 19:00,RCDE Stadium,Espanol,Granada,0.46,0.16,0.39,H
+29,3,01-09-2019 21:00,Estadio de la Cerámica,Villarreal,Real Madrid,0.42,0.31,0.28,H
+30,4,13-09-2019 21:00,Estadi de Son Moix,Mallorca,Ath Bilbao,0.44,0.3,0.27,H
+31,4,14-09-2019 13:00,Estadio Santiago Bernabéu,Real Madrid,Levante,0.47,0.27,0.27,H
+32,4,14-09-2019 16:00,Estadio Municipal de Butarque,Leganes,Villarreal,0.56,0.18,0.27,H
+33,4,14-09-2019 18:30,Anoeta,Sociedad,Ath Madrid,0.61,0.15,0.25,H
+34,4,14-09-2019 21:00,Camp Nou,Barcelona,Valencia,0.41,0.27,0.33,H
+35,4,15-09-2019 12:00,Ipurua Municipal Stadium,Eibar,Espanol,0.26,0.48,0.27,A
+36,4,15-09-2019 14:00,Mendizorrotza,Alaves,Sevilla,0.41,0.36,0.24,H
+37,4,15-09-2019 16:00,Abanca-Balaídos,Celta,Granada,0.56,0.19,0.26,H
+38,4,15-09-2019 18:30,José Zorrilla,Valladolid,Osasuna,0.55,0.32,0.14,H
+39,4,15-09-2019 21:00,Benito Villamarín,Betis,Getafe,0.41,0.27,0.33,H
+40,5,20-09-2019 21:00,El Sadar,Osasuna,Betis,0.47,0.28,0.26,H
+41,5,21-09-2019 13:00,Estadio de la Cerámica,Villarreal,Valladolid,0.55,0.28,0.18,H
+42,5,21-09-2019 16:00,Ciutat de València,Levante,Eibar,0.52,0.23,0.26,H
+43,5,21-09-2019 18:30,Wanda Metropolitano,Ath Madrid,Celta,0.52,0.28,0.21,H
+44,5,21-09-2019 21:00,Nuevo Los Cármenes,Granada,Barcelona,0.37,0.35,0.29,H
+45,5,22-09-2019 12:00,Coliseum Alfonso Pérez,Getafe,Mallorca,0.41,0.33,0.27,H
+46,5,22-09-2019 14:00,RCDE Stadium,Espanol,Sociedad,0.55,0.25,0.21,H
+47,5,22-09-2019 16:00,Mestalla,Valencia,Leganes,0.42,0.29,0.3,H
+48,5,22-09-2019 18:30,San Mamés,Ath Bilbao,Alaves,0.5,0.27,0.24,H
+49,5,22-09-2019 21:00,Ramón Sánchez Pizjuán,Sevilla,Real Madrid,0.6,0.2,0.21,H
+50,6,24-09-2019 19:00,José Zorrilla,Valladolid,Granada,0.41,0.32,0.28,H
+51,6,24-09-2019 20:00,Benito Villamarín,Betis,Levante,0.51,0.21,0.29,H
+52,6,24-09-2019 21:00,Camp Nou,Barcelona,Villarreal,0.41,0.31,0.29,H
+53,6,25-09-2019 19:00,Estadio Municipal de Butarque,Leganes,Ath Bilbao,0.42,0.27,0.32,H
+54,6,25-09-2019 19:00,Estadi de Son Moix,Mallorca,Ath Madrid,0.77,0.12,0.12,H
+55,6,25-09-2019 20:00,Mestalla,Valencia,Getafe,0.36,0.46,0.19,A
+56,6,25-09-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,Osasuna,0.43,0.34,0.24,H
+57,6,26-09-2019 19:00,Ipurua Municipal Stadium,Eibar,Sevilla,0.38,0.28,0.35,H
+58,6,26-09-2019 20:00,Abanca-Balaídos,Celta,Espanol,0.43,0.31,0.27,H
+59,6,26-09-2019 21:00,Anoeta,Sociedad,Alaves,0.72,0.11,0.18,H
+60,7,27-09-2019 21:00,Estadio de la Cerámica,Villarreal,Betis,0.54,0.27,0.2,H
+61,7,28-09-2019 13:00,San Mamés,Ath Bilbao,Valencia,0.47,0.3,0.24,H
+62,7,28-09-2019 16:00,Coliseum Alfonso Pérez,Getafe,Barcelona,0.5,0.26,0.25,H
+63,7,28-09-2019 18:30,Nuevo Los Cármenes,Granada,Leganes,0.42,0.3,0.29,H
+64,7,28-09-2019 21:00,Wanda Metropolitano,Ath Madrid,Real Madrid,0.46,0.27,0.28,H
+65,7,29-09-2019 12:00,RCDE Stadium,Espanol,Valladolid,0.4,0.4,0.21,D
+66,7,29-09-2019 14:00,Ipurua Municipal Stadium,Eibar,Celta,0.16,0.53,0.32,A
+67,7,29-09-2019 16:00,Mendizorrotza,Alaves,Mallorca,0.42,0.34,0.25,H
+68,7,29-09-2019 18:30,Ciutat de València,Levante,Osasuna,0.48,0.21,0.32,H
+69,7,29-09-2019 21:00,Ramón Sánchez Pizjuán,Sevilla,Sociedad,0.49,0.24,0.28,H
+70,8,04-10-2019 21:00,Benito Villamarín,Betis,Eibar,0.48,0.24,0.29,H
+71,8,05-10-2019 13:00,Estadio Municipal de Butarque,Leganes,Levante,0.54,0.23,0.24,H
+72,8,05-10-2019 16:00,Estadio Santiago Bernabéu,Real Madrid,Granada,0.48,0.29,0.24,H
+73,8,05-10-2019 18:30,Mestalla,Valencia,Alaves,0.6,0.15,0.26,H
+74,8,05-10-2019 21:00,El Sadar,Osasuna,Villarreal,0.66,0.17,0.18,H
+75,8,06-10-2019 12:00,Estadi de Son Moix,Mallorca,Espanol,0.49,0.25,0.27,H
+76,8,06-10-2019 14:00,Abanca-Balaídos,Celta,Ath Bilbao,0.42,0.33,0.26,H
+77,8,06-10-2019 16:00,José Zorrilla,Valladolid,Ath Madrid,0.51,0.22,0.28,H
+78,8,06-10-2019 18:30,Anoeta,Sociedad,Getafe,0.45,0.29,0.27,H
+79,8,06-10-2019 21:00,Camp Nou,Barcelona,Sevilla,0.8,0.07,0.14,H
+80,9,18-10-2019 21:00,Nuevo Los Cármenes,Granada,Osasuna,0.45,0.32,0.24,H
+81,9,19-10-2019 13:00,Ipurua Municipal Stadium,Eibar,Barcelona,0.44,0.31,0.26,H
+82,9,19-10-2019 16:00,Wanda Metropolitano,Ath Madrid,Valencia,0.44,0.3,0.27,H
+83,9,19-10-2019 18:30,Coliseum Alfonso Pérez,Getafe,Leganes,0.47,0.26,0.28,H
+84,9,19-10-2019 21:00,Estadi de Son Moix,Mallorca,Real Madrid,0.47,0.24,0.3,H
+85,9,20-10-2019 12:00,Mendizorrotza,Alaves,Celta,0.42,0.28,0.31,H
+86,9,20-10-2019 14:00,Anoeta,Sociedad,Betis,0.8,0.03,0.18,H
+87,9,20-10-2019 16:00,RCDE Stadium,Espanol,Villarreal,0.49,0.23,0.29,H
+88,9,20-10-2019 18:30,San Mamés,Ath Bilbao,Valladolid,0.05,0.83,0.13,A
+89,9,20-10-2019 21:00,Ramón Sánchez Pizjuán,Sevilla,Levante,0.43,0.4,0.18,H
+90,10,25-10-2019 21:00,Estadio de la Cerámica,Villarreal,Alaves,0.43,0.28,0.3,H
+91,10,26-10-2019 16:00,Estadio Municipal de Butarque,Leganes,Mallorca,0.46,0.32,0.23,H
+92,10,26-10-2019 18:30,José Zorrilla,Valladolid,Eibar,0.08,0.65,0.28,A
+93,10,26-10-2019 21:00,Wanda Metropolitano,Ath Madrid,Ath Bilbao,0.49,0.24,0.28,H
+94,10,27-10-2019 12:00,Abanca-Balaídos,Celta,Sociedad,0.54,0.14,0.33,H
+95,10,27-10-2019 14:00,Nuevo Los Cármenes,Granada,Betis,0.35,0.28,0.38,D
+96,10,27-10-2019 16:00,Ciutat de València,Levante,Espanol,0.35,0.31,0.35,H
+97,10,27-10-2019 18:30,Ramón Sánchez Pizjuán,Sevilla,Getafe,0.34,0.38,0.29,A
+98,10,27-10-2019 21:00,El Sadar,Osasuna,Valencia,0.59,0.16,0.26,H
+99,11,29-10-2019 19:00,Mendizorrotza,Alaves,Ath Madrid,0.7,0.14,0.17,H
+100,11,29-10-2019 21:15,Camp Nou,Barcelona,Valladolid,0.34,0.44,0.23,A
+101,11,30-10-2019 19:00,Anoeta,Sociedad,Levante,0.38,0.41,0.22,A
+102,11,30-10-2019 19:00,Mestalla,Valencia,Sevilla,0.34,0.39,0.28,A
+103,11,30-10-2019 20:00,San Mamés,Ath Bilbao,Espanol,0.57,0.27,0.17,H
+104,11,30-10-2019 21:00,Benito Villamarín,Betis,Celta,0.68,0.14,0.19,H
+105,11,30-10-2019 21:15,Estadio Santiago Bernabéu,Real Madrid,Leganes,0.36,0.42,0.23,A
+106,11,31-10-2019 19:00,Ipurua Municipal Stadium,Eibar,Villarreal,0.91,0.04,0.06,H
+107,11,31-10-2019 19:00,Estadi de Son Moix,Mallorca,Osasuna,0.46,0.27,0.28,H
+108,11,31-10-2019 21:15,Coliseum Alfonso Pérez,Getafe,Granada,0.16,0.62,0.23,A
+109,12,02-11-2019 13:00,RCDE Stadium,Espanol,Valencia,0.59,0.21,0.21,H
+110,12,02-11-2019 16:00,Ciutat de València,Levante,Barcelona,0.34,0.33,0.34,H
+111,12,02-11-2019 18:30,Ramón Sánchez Pizjuán,Sevilla,Ath Madrid,0.55,0.21,0.25,H
+112,12,02-11-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,Betis,0.56,0.17,0.28,H
+113,12,03-11-2019 12:00,José Zorrilla,Valladolid,Mallorca,0.86,0.08,0.07,H
+114,12,03-11-2019 14:00,Estadio de la Cerámica,Villarreal,Ath Bilbao,0.54,0.2,0.27,H
+115,12,03-11-2019 16:00,El Sadar,Osasuna,Alaves,0.56,0.13,0.32,H
+116,12,03-11-2019 18:30,Abanca-Balaídos,Celta,Getafe,0.01,0.81,0.19,A
+117,12,03-11-2019 18:30,Estadio Municipal de Butarque,Leganes,Eibar,0.14,0.54,0.33,A
+118,12,03-11-2019 21:00,Nuevo Los Cármenes,Granada,Sociedad,0.49,0.29,0.23,H
+119,13,08-11-2019 21:00,Anoeta,Sociedad,Leganes,0.5,0.2,0.31,H
+120,13,09-11-2019 13:00,Mendizorrotza,Alaves,Valladolid,0.1,0.59,0.32,A
+121,13,09-11-2019 16:00,Mestalla,Valencia,Granada,0.67,0.15,0.19,H
+122,13,09-11-2019 18:30,Ipurua Municipal Stadium,Eibar,Real Madrid,0.58,0.17,0.26,H
+123,13,09-11-2019 21:00,Camp Nou,Barcelona,Celta,0.59,0.22,0.2,H
+124,13,10-11-2019 14:00,San Mamés,Ath Bilbao,Levante,0.36,0.33,0.32,H
+125,13,10-11-2019 16:00,Wanda Metropolitano,Ath Madrid,Espanol,0.38,0.34,0.29,H
+126,13,10-11-2019 18:30,Coliseum Alfonso Pérez,Getafe,Osasuna,0.56,0.23,0.22,H
+127,13,10-11-2019 21:00,Benito Villamarín,Betis,Sevilla,0.71,0.11,0.19,H
+128,13,11-11-2019 00:00,Estadi de Son Moix,Mallorca,Villarreal,0.57,0.25,0.19,H
+129,14,22-11-2019 21:00,Ciutat de València,Levante,Mallorca,0.29,0.49,0.23,A
+130,14,23-11-2019 13:00,Estadio Municipal de Butarque,Leganes,Barcelona,0.13,0.49,0.39,A
+131,14,23-11-2019 16:00,Benito Villamarín,Betis,Valencia,0.14,0.69,0.18,A
+132,14,23-11-2019 18:30,Nuevo Los Cármenes,Granada,Ath Madrid,0.2,0.52,0.29,A
+133,14,23-11-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,Sociedad,0.4,0.36,0.25,H
+134,14,24-11-2019 12:00,RCDE Stadium,Espanol,Getafe,0.44,0.39,0.18,H
+135,14,24-11-2019 14:00,El Sadar,Osasuna,Ath Bilbao,0.42,0.29,0.3,H
+136,14,24-11-2019 16:00,Ipurua Municipal Stadium,Eibar,Alaves,0.3,0.47,0.24,A
+137,14,24-11-2019 18:30,Estadio de la Cerámica,Villarreal,Celta,0.17,0.7,0.14,A
+138,14,24-11-2019 21:00,José Zorrilla,Valladolid,Sevilla,0.82,0.08,0.11,H
+139,15,29-11-2019 21:00,Abanca-Balaídos,Celta,Valladolid,0.49,0.19,0.33,H
+140,15,30-11-2019 13:00,Mendizorrotza,Alaves,Real Madrid,0.65,0.14,0.22,H
+141,15,30-11-2019 16:00,Anoeta,Sociedad,Eibar,0.6,0.21,0.2,H
+142,15,30-11-2019 18:30,Estadi de Son Moix,Mallorca,Betis,0.38,0.38,0.25,D
+143,15,30-11-2019 21:00,Mestalla,Valencia,Villarreal,0.57,0.27,0.17,H
+144,15,01-12-2019 12:00,Ramón Sánchez Pizjuán,Sevilla,Leganes,0.61,0.25,0.15,H
+145,15,01-12-2019 14:00,San Mamés,Ath Bilbao,Granada,0.51,0.2,0.3,H
+146,15,01-12-2019 16:00,RCDE Stadium,Espanol,Osasuna,0.06,0.67,0.28,A
+147,15,01-12-2019 18:30,Coliseum Alfonso Pérez,Getafe,Levante,0.57,0.24,0.2,H
+148,15,01-12-2019 21:00,Wanda Metropolitano,Ath Madrid,Barcelona,0.45,0.3,0.26,H
+149,16,06-12-2019 21:00,Estadio de la Cerámica,Villarreal,Ath Madrid,0.27,0.49,0.25,A
+150,16,07-12-2019 13:00,Estadio Santiago Bernabéu,Real Madrid,Espanol,0.85,0.02,0.14,H
+151,16,07-12-2019 16:00,Nuevo Los Cármenes,Granada,Alaves,0.83,0.02,0.16,H
+152,16,07-12-2019 18:30,Ciutat de València,Levante,Valencia,0.52,0.3,0.19,H
+153,16,07-12-2019 21:00,Camp Nou,Barcelona,Mallorca,0.6,0.14,0.27,H
+154,16,08-12-2019 12:00,Ipurua Municipal Stadium,Eibar,Getafe,0.64,0.13,0.24,H
+155,16,08-12-2019 14:00,Benito Villamarín,Betis,Ath Bilbao,0.31,0.41,0.29,A
+156,16,08-12-2019 16:00,José Zorrilla,Valladolid,Sociedad,0.14,0.69,0.18,A
+157,16,08-12-2019 18:30,Estadio Municipal de Butarque,Leganes,Celta,0.89,0.05,0.07,H
+158,16,08-12-2019 21:00,El Sadar,Osasuna,Sevilla,0.66,0.17,0.18,H
+159,17,13-12-2019 21:00,Mendizorrotza,Alaves,Leganes,0.19,0.66,0.16,A
+160,17,14-12-2019 13:00,Nuevo Los Cármenes,Granada,Levante,0.76,0.07,0.18,H
+161,17,14-12-2019 16:00,Anoeta,Sociedad,Barcelona,0.24,0.42,0.35,A
+162,17,14-12-2019 18:30,San Mamés,Ath Bilbao,Eibar,0.37,0.36,0.28,H
+163,17,14-12-2019 21:00,Wanda Metropolitano,Ath Madrid,Osasuna,0.9,0.02,0.09,H
+164,17,15-12-2019 12:00,Coliseum Alfonso Pérez,Getafe,Valladolid,0.52,0.24,0.25,H
+165,17,15-12-2019 14:00,Abanca-Balaídos,Celta,Mallorca,0.43,0.38,0.2,H
+166,17,15-12-2019 16:00,RCDE Stadium,Espanol,Betis,0.55,0.18,0.28,H
+167,17,15-12-2019 18:30,Ramón Sánchez Pizjuán,Sevilla,Villarreal,0.66,0.16,0.19,H
+168,17,15-12-2019 21:00,Mestalla,Valencia,Real Madrid,0.66,0.08,0.27,H
+169,17,18-12-2019 20:00,Camp Nou,Barcelona,Real Madrid,0.95,0.01,0.05,H
+170,18,20-12-2019 21:00,Ipurua Municipal Stadium,Eibar,Granada,0.72,0.14,0.15,H
+171,18,21-12-2019 13:00,Estadi de Son Moix,Mallorca,Sevilla,0.46,0.23,0.32,H
+172,18,21-12-2019 16:00,Camp Nou,Barcelona,Alaves,0.49,0.33,0.19,H
+173,18,21-12-2019 18:30,Estadio de la Cerámica,Villarreal,Getafe,0.82,0.11,0.08,H
+174,18,21-12-2019 21:00,José Zorrilla,Valladolid,Valencia,0.19,0.6,0.22,A
+175,18,22-12-2019 12:00,Estadio Municipal de Butarque,Leganes,Espanol,0.77,0.09,0.15,H
+176,18,22-12-2019 14:00,El Sadar,Osasuna,Sociedad,0.63,0.18,0.2,H
+177,18,22-12-2019 16:00,Benito Villamarín,Betis,Ath Madrid,0.25,0.5,0.26,A
+178,18,22-12-2019 18:30,Ciutat de València,Levante,Celta,0.45,0.26,0.3,H
+179,18,22-12-2019 21:00,Estadio Santiago Bernabéu,Real Madrid,Ath Bilbao,0.05,0.75,0.21,A
+180,19,03-01-2020 19:00,José Zorrilla,Valladolid,Leganes,0.61,0.19,0.21,H
+181,19,03-01-2020 21:00,Ramón Sánchez Pizjuán,Sevilla,Ath Bilbao,0.89,0.01,0.11,H
+182,19,04-01-2020 13:00,Mestalla,Valencia,Eibar,0.55,0.22,0.24,H
+183,19,04-01-2020 16:00,Coliseum Alfonso Pérez,Getafe,Real Madrid,0.35,0.42,0.24,A
+184,19,04-01-2020 18:30,Wanda Metropolitano,Ath Madrid,Levante,0.99,0.01,0.01,H
+185,19,04-01-2020 21:00,RCDE Stadium,Espanol,Barcelona,0.84,0.03,0.14,H
+186,19,05-01-2020 12:00,Nuevo Los Cármenes,Granada,Mallorca,0.29,0.55,0.17,A
+187,19,05-01-2020 14:00,Anoeta,Sociedad,Villarreal,0.29,0.46,0.26,A
+188,19,05-01-2020 16:00,Mendizorrotza,Alaves,Betis,0.96,0.02,0.03,H
+189,19,05-01-2020 21:00,Abanca-Balaídos,Celta,Osasuna,0.53,0.11,0.37,H
+190,20,17-01-2020 21:00,Estadio Municipal de Butarque,Leganes,Getafe,0.42,0.33,0.26,H
+191,20,18-01-2020 13:00,Ciutat de València,Levante,Alaves,0.6,0.19,0.22,H
+192,20,18-01-2020 16:00,Estadio Santiago Bernabéu,Real Madrid,Sevilla,0.87,0.05,0.09,H
+193,20,18-01-2020 18:30,El Sadar,Osasuna,Valladolid,0.27,0.41,0.33,A
+194,20,18-01-2020 21:00,Ipurua Municipal Stadium,Eibar,Ath Madrid,0.56,0.23,0.22,H
+195,20,19-01-2020 12:00,Estadi de Son Moix,Mallorca,Valencia,0.7,0.12,0.19,H
+196,20,19-01-2020 14:00,Benito Villamarín,Betis,Sociedad,0.32,0.35,0.34,A
+197,20,19-01-2020 16:00,Estadio de la Cerámica,Villarreal,Espanol,0.6,0.15,0.26,H
+198,20,19-01-2020 18:30,San Mamés,Ath Bilbao,Celta,0.66,0.15,0.2,H
+199,20,19-01-2020 21:00,Camp Nou,Barcelona,Granada,0.71,0.17,0.13,H
+200,21,24-01-2020 21:00,El Sadar,Osasuna,Levante,0.31,0.39,0.31,A
+201,21,25-01-2020 13:00,RCDE Stadium,Espanol,Ath Bilbao,0.81,0.07,0.13,H
+202,21,25-01-2020 16:00,Mestalla,Valencia,Barcelona,0.25,0.44,0.32,A
+203,21,25-01-2020 18:30,Mendizorrotza,Alaves,Villarreal,0.49,0.32,0.2,H
+204,21,25-01-2020 21:00,Ramón Sánchez Pizjuán,Sevilla,Granada,0.52,0.24,0.25,H
+205,21,26-01-2020 12:00,Wanda Metropolitano,Ath Madrid,Leganes,0.22,0.6,0.19,A
+206,21,26-01-2020 14:00,Abanca-Balaídos,Celta,Eibar,0.36,0.35,0.3,H
+207,21,26-01-2020 16:00,Coliseum Alfonso Pérez,Getafe,Betis,0.37,0.4,0.24,A
+208,21,26-01-2020 18:30,Anoeta,Sociedad,Mallorca,0.1,0.67,0.24,A
+209,21,26-01-2020 21:00,José Zorrilla,Valladolid,Real Madrid,0.3,0.55,0.16,A
+210,22,01-02-2020 13:00,Nuevo Los Cármenes,Granada,Espanol,0.72,0.11,0.18,H
+211,22,01-02-2020 16:00,Estadio Santiago Bernabéu,Real Madrid,Ath Madrid,0.54,0.2,0.27,H
+212,22,01-02-2020 18:30,Estadi de Son Moix,Mallorca,Valladolid,0.57,0.2,0.24,H
+213,22,01-02-2020 21:00,Mestalla,Valencia,Celta,0.69,0.09,0.23,H
+214,22,02-02-2020 12:00,Estadio Municipal de Butarque,Leganes,Sociedad,0.63,0.11,0.27,H
+215,22,02-02-2020 14:00,Ipurua Municipal Stadium,Eibar,Betis,0.2,0.59,0.22,A
+216,22,02-02-2020 16:00,San Mamés,Ath Bilbao,Getafe,0.38,0.39,0.24,A
+217,22,02-02-2020 18:30,Ramón Sánchez Pizjuán,Sevilla,Alaves,0.51,0.19,0.31,H
+218,22,02-02-2020 18:30,Estadio de la Cerámica,Villarreal,Osasuna,0.18,0.56,0.27,A
+219,22,02-02-2020 21:00,Camp Nou,Barcelona,Levante,0.42,0.39,0.2,H
+220,23,07-02-2020 21:00,Mendizorrotza,Alaves,Eibar,0.62,0.21,0.18,H
+221,23,08-02-2020 13:00,Ciutat de València,Levante,Leganes,0.51,0.2,0.3,H
+222,23,08-02-2020 16:00,Coliseum Alfonso Pérez,Getafe,Valencia,0.43,0.23,0.35,H
+223,23,08-02-2020 18:30,José Zorrilla,Valladolid,Villarreal,0.31,0.47,0.23,A
+224,23,08-02-2020 21:00,Wanda Metropolitano,Ath Madrid,Granada,0.45,0.31,0.25,H
+225,23,09-02-2020 12:00,RCDE Stadium,Espanol,Mallorca,0.69,0.11,0.21,H
+226,23,09-02-2020 14:00,Anoeta,Sociedad,Ath Bilbao,0.62,0.21,0.18,H
+227,23,09-02-2020 16:00,El Sadar,Osasuna,Real Madrid,0.33,0.38,0.3,A
+228,23,09-02-2020 18:30,Abanca-Balaídos,Celta,Sevilla,0.21,0.43,0.37,A
+229,23,09-02-2020 21:00,Benito Villamarín,Betis,Barcelona,0.45,0.29,0.27,H
+230,24,14-02-2020 21:00,Mestalla,Valencia,Ath Madrid,0.1,0.44,0.47,D
+231,24,15-02-2020 13:00,Estadi de Son Moix,Mallorca,Alaves,0.69,0.14,0.18,H
+232,24,15-02-2020 16:00,Camp Nou,Barcelona,Getafe,0.13,0.6,0.28,A
+233,24,15-02-2020 18:30,Estadio de la Cerámica,Villarreal,Levante,0.38,0.31,0.32,H
+234,24,15-02-2020 21:00,Nuevo Los Cármenes,Granada,Valladolid,0.27,0.45,0.29,A
+235,24,16-02-2020 12:00,Ramón Sánchez Pizjuán,Sevilla,Espanol,0.67,0.16,0.18,H
+236,24,16-02-2020 14:00,Estadio Municipal de Butarque,Leganes,Betis,0.13,0.65,0.23,A
+237,24,16-02-2020 18:30,San Mamés,Ath Bilbao,Osasuna,0.45,0.2,0.36,H
+238,24,16-02-2020 21:00,Estadio Santiago Bernabéu,Real Madrid,Celta,0.25,0.54,0.22,A
+239,25,21-02-2020 21:00,Benito Villamarín,Betis,Mallorca,0.21,0.44,0.36,A
+240,25,22-02-2020 13:00,Abanca-Balaídos,Celta,Leganes,0.33,0.4,0.28,A
+241,25,22-02-2020 16:00,Camp Nou,Barcelona,Eibar,0.56,0.26,0.19,H
+242,25,22-02-2020 18:30,Anoeta,Sociedad,Valencia,0.56,0.16,0.29,H
+243,25,22-02-2020 21:00,Ciutat de València,Levante,Real Madrid,0.21,0.58,0.22,A
+244,25,23-02-2020 12:00,El Sadar,Osasuna,Granada,0.58,0.23,0.2,H
+245,25,23-02-2020 14:00,Mendizorrotza,Alaves,Ath Bilbao,0.75,0.11,0.15,H
+246,25,23-02-2020 16:00,José Zorrilla,Valladolid,Espanol,0.28,0.55,0.18,A
+247,25,23-02-2020 18:30,Coliseum Alfonso Pérez,Getafe,Sevilla,0.3,0.39,0.32,A
+248,25,23-02-2020 21:00,Wanda Metropolitano,Ath Madrid,Villarreal,0.8,0.03,0.18,H
+249,26,28-02-2020 21:00,Anoeta,Sociedad,Valladolid,0.61,0.16,0.24,H
+250,26,29-02-2020 13:00,Ipurua Municipal Stadium,Eibar,Levante,0.72,0.1,0.19,H
+251,26,29-02-2020 16:00,Mestalla,Valencia,Betis,0.27,0.46,0.28,A
+252,26,29-02-2020 18:30,Estadio Municipal de Butarque,Leganes,Alaves,0.12,0.74,0.15,A
+253,26,29-02-2020 21:00,Nuevo Los Cármenes,Granada,Celta,0.65,0.15,0.21,H
+254,26,01-03-2020 12:00,Ramón Sánchez Pizjuán,Sevilla,Osasuna,0.5,0.31,0.2,H
+255,26,01-03-2020 14:00,San Mamés,Ath Bilbao,Villarreal,0.24,0.5,0.27,A
+256,26,01-03-2020 16:00,RCDE Stadium,Espanol,Ath Madrid,0.77,0.05,0.19,H
+257,26,01-03-2020 18:30,Estadi de Son Moix,Mallorca,Getafe,0.42,0.31,0.28,H
+258,26,01-03-2020 21:00,Estadio Santiago Bernabéu,Real Madrid,Barcelona,0.45,0.34,0.22,H
+259,27,06-03-2020 21:00,Mendizorrotza,Alaves,Valencia,0.39,0.45,0.17,A
+260,27,07-03-2020 13:00,Ipurua Municipal Stadium,Eibar,Mallorca,0.76,0.09,0.16,H
+261,27,07-03-2020 16:00,Wanda Metropolitano,Ath Madrid,Sevilla,0.52,0.21,0.28,H
+262,27,07-03-2020 18:30,Camp Nou,Barcelona,Sociedad,0.33,0.46,0.22,A
+263,27,07-03-2020 21:00,Coliseum Alfonso Pérez,Getafe,Celta,0.13,0.63,0.25,A
+264,27,08-03-2020 12:00,El Sadar,Osasuna,Espanol,0.75,0.09,0.17,H
+265,27,08-03-2020 14:00,José Zorrilla,Valladolid,Ath Bilbao,0.34,0.39,0.28,A
+266,27,08-03-2020 16:00,Ciutat de València,Levante,Granada,0.45,0.32,0.24,H
+267,27,08-03-2020 18:30,Estadio de la Cerámica,Villarreal,Leganes,0.92,0.01,0.08,H
+268,27,08-03-2020 21:00,Benito Villamarín,Betis,Real Madrid,0.76,0.11,0.14,H
+269,27,10-03-2020 20:00,Ipurua Municipal Stadium,Eibar,Sociedad,0.47,0.35,0.19,H
+270,28,11-06-2020 22:00,Ramón Sánchez Pizjuán,Sevilla,Betis,0.83,0.04,0.14,H
+271,28,12-06-2020 19:30,Nuevo Los Cármenes,Granada,Getafe,0.78,0.13,0.1,H
+272,28,12-06-2020 22:00,Mestalla,Valencia,Levante,0.92,0.04,0.05,H
+273,28,13-06-2020 14:00,RCDE Stadium,Espanol,Alaves,0.82,0.05,0.14,H
+274,28,13-06-2020 17:00,Abanca-Balaídos,Celta,Villarreal,0.58,0.22,0.21,H
+275,28,13-06-2020 19:30,Estadio Municipal de Butarque,Leganes,Valladolid,0.45,0.38,0.18,H
+276,28,13-06-2020 22:00,Estadi de Son Moix,Mallorca,Barcelona,0.67,0.08,0.26,H
+277,28,14-06-2020 14:00,San Mamés,Ath Bilbao,Ath Madrid,0.78,0.08,0.15,H
+278,28,14-06-2020 19:30,Estadio Alfredo Di Stéfano,Real Madrid,Eibar,0.32,0.44,0.25,A
+279,28,14-06-2020 22:00,Anoeta,Sociedad,Osasuna,0.53,0.27,0.21,H
+280,29,15-06-2020 19:30,Estadio Camilo Cano,Levante,Sevilla,0.78,0.11,0.12,H
+281,29,15-06-2020 22:00,Benito Villamarín,Betis,Granada,0.18,0.57,0.26,A
+282,29,16-06-2020 19:30,Coliseum Alfonso Pérez,Getafe,Espanol,0.69,0.18,0.14,H
+283,29,16-06-2020 19:30,Estadio de la Cerámica,Villarreal,Mallorca,0.15,0.72,0.14,A
+284,29,16-06-2020 22:00,Camp Nou,Barcelona,Leganes,0.16,0.64,0.21,A
+285,29,17-06-2020 19:30,Ipurua Municipal Stadium,Eibar,Ath Bilbao,0.45,0.27,0.29,H
+286,29,17-06-2020 19:30,José Zorrilla,Valladolid,Celta,0.34,0.4,0.27,A
+287,29,17-06-2020 22:00,El Sadar,Osasuna,Ath Madrid,0.34,0.36,0.31,A
+288,29,18-06-2020 19:30,Mendizorrotza,Alaves,Sociedad,0.41,0.33,0.27,H
+289,29,18-06-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,Valencia,0.39,0.36,0.26,H
+290,30,19-06-2020 19:30,Nuevo Los Cármenes,Granada,Villarreal,0.27,0.5,0.24,A
+291,30,19-06-2020 19:30,Estadi de Son Moix,Mallorca,Leganes,0.23,0.48,0.3,A
+292,30,19-06-2020 22:00,Ramón Sánchez Pizjuán,Sevilla,Barcelona,1.0,,0.01,H
+293,30,20-06-2020 14:00,RCDE Stadium,Espanol,Levante,0.76,0.05,0.2,H
+294,30,20-06-2020 17:00,San Mamés,Ath Bilbao,Betis,0.53,0.28,0.2,H
+295,30,20-06-2020 19:30,Coliseum Alfonso Pérez,Getafe,Eibar,0.31,0.48,0.22,A
+296,30,20-06-2020 22:00,Wanda Metropolitano,Ath Madrid,Valladolid,0.1,0.81,0.1,A
+297,30,21-06-2020 14:00,Abanca-Balaídos,Celta,Alaves,0.72,0.09,0.2,H
+298,30,21-06-2020 19:30,Mestalla,Valencia,Osasuna,0.12,0.75,0.14,A
+299,30,21-06-2020 22:00,Anoeta,Sociedad,Real Madrid,0.49,0.3,0.22,H
+300,31,22-06-2020 19:30,Estadio de la Cerámica,Villarreal,Sevilla,0.47,0.19,0.35,H
+301,31,22-06-2020 22:00,Estadio Municipal de Butarque,Leganes,Granada,0.49,0.19,0.33,H
+302,31,23-06-2020 19:30,Estadio Camilo Cano,Levante,Ath Madrid,0.28,0.41,0.32,A
+303,31,23-06-2020 19:30,José Zorrilla,Valladolid,Getafe,0.48,0.18,0.35,H
+304,31,23-06-2020 22:00,Camp Nou,Barcelona,Ath Bilbao,0.17,0.53,0.31,A
+305,31,24-06-2020 19:30,Mendizorrotza,Alaves,Osasuna,0.53,0.2,0.28,H
+306,31,24-06-2020 19:30,Anoeta,Sociedad,Celta,0.49,0.26,0.26,H
+307,31,24-06-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,Mallorca,0.44,0.26,0.31,H
+308,31,25-06-2020 19:30,Ipurua Municipal Stadium,Eibar,Valencia,0.47,0.22,0.32,H
+309,31,25-06-2020 22:00,Benito Villamarín,Betis,Espanol,0.55,0.19,0.27,H
+310,32,26-06-2020 22:00,Ramón Sánchez Pizjuán,Sevilla,Valladolid,0.64,0.22,0.15,H
+311,32,27-06-2020 14:00,San Mamés,Ath Bilbao,Mallorca,0.09,0.81,0.11,A
+312,32,27-06-2020 17:00,Abanca-Balaídos,Celta,Barcelona,0.56,0.21,0.24,H
+313,32,27-06-2020 19:30,El Sadar,Osasuna,Leganes,0.68,0.2,0.13,H
+314,32,27-06-2020 22:00,Wanda Metropolitano,Ath Madrid,Alaves,0.32,0.38,0.31,A
+315,32,28-06-2020 14:00,Estadio Camilo Cano,Levante,Betis,0.74,0.11,0.16,H
+316,32,28-06-2020 17:00,Estadio de la Cerámica,Villarreal,Valencia,0.07,0.58,0.36,A
+317,32,28-06-2020 19:30,Nuevo Los Cármenes,Granada,Eibar,0.54,0.23,0.24,H
+318,32,28-06-2020 22:00,RCDE Stadium,Espanol,Real Madrid,0.45,0.29,0.27,H
+319,32,29-06-2020 22:00,Coliseum Alfonso Pérez,Getafe,Sociedad,0.29,0.5,0.22,A
+320,33,30-06-2020 19:30,Estadi de Son Moix,Mallorca,Celta,0.79,0.11,0.11,H
+321,33,30-06-2020 21:00,Estadio Municipal de Butarque,Leganes,Sevilla,0.43,0.22,0.36,H
+322,33,30-06-2020 22:00,Camp Nou,Barcelona,Ath Madrid,0.61,0.1,0.3,H
+323,33,01-07-2020 19:30,Mendizorrotza,Alaves,Granada,0.59,0.13,0.29,H
+324,33,01-07-2020 19:30,Mestalla,Valencia,Ath Bilbao,0.36,0.29,0.36,H
+325,33,01-07-2020 22:00,Benito Villamarín,Betis,Villarreal,0.64,0.13,0.24,H
+326,33,01-07-2020 22:00,José Zorrilla,Valladolid,Levante,0.42,0.4,0.19,H
+327,33,02-07-2020 19:30,Ipurua Municipal Stadium,Eibar,Osasuna,0.24,0.59,0.18,A
+328,33,02-07-2020 19:30,Anoeta,Sociedad,Espanol,0.57,0.2,0.24,H
+329,33,02-07-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,Getafe,0.57,0.24,0.2,H
+330,34,03-07-2020 22:00,Wanda Metropolitano,Ath Madrid,Mallorca,0.81,0.1,0.1,H
+331,34,04-07-2020 17:00,Abanca-Balaídos,Celta,Betis,0.56,0.21,0.24,H
+332,34,04-07-2020 19:30,José Zorrilla,Valladolid,Alaves,0.28,0.48,0.25,A
+333,34,04-07-2020 22:00,Nuevo Los Cármenes,Granada,Valencia,0.36,0.37,0.28,A
+334,34,05-07-2020 14:00,San Mamés,Ath Bilbao,Real Madrid,0.62,0.16,0.23,H
+335,34,05-07-2020 17:00,RCDE Stadium,Espanol,Leganes,0.45,0.18,0.38,H
+336,34,05-07-2020 19:30,El Sadar,Osasuna,Getafe,0.46,0.26,0.29,H
+337,34,05-07-2020 22:00,Estadio de la Cerámica,Villarreal,Barcelona,0.43,0.26,0.32,H
+338,34,06-07-2020 19:30,Estadio Camilo Cano,Levante,Sociedad,0.21,0.5,0.3,A
+339,34,06-07-2020 22:00,Ramón Sánchez Pizjuán,Sevilla,Eibar,0.79,0.04,0.18,H
+340,35,07-07-2020 19:30,Mestalla,Valencia,Valladolid,0.84,0.06,0.11,H
+341,35,07-07-2020 22:00,Abanca-Balaídos,Celta,Ath Madrid,0.44,0.37,0.2,H
+342,35,08-07-2020 19:30,Benito Villamarín,Betis,Osasuna,0.35,0.39,0.27,A
+343,35,08-07-2020 19:30,Coliseum Alfonso Pérez,Getafe,Villarreal,0.5,0.24,0.27,H
+344,35,08-07-2020 22:00,Camp Nou,Barcelona,Espanol,0.4,0.28,0.33,H
+345,35,09-07-2020 19:30,Ipurua Municipal Stadium,Eibar,Leganes,0.8,0.06,0.15,H
+346,35,09-07-2020 19:30,Estadi de Son Moix,Mallorca,Levante,0.36,0.33,0.32,H
+347,35,09-07-2020 22:00,San Mamés,Ath Bilbao,Sevilla,0.53,0.27,0.21,H
+348,35,10-07-2020 19:30,Anoeta,Sociedad,Granada,0.25,0.41,0.35,A
+349,35,10-07-2020 22:00,Estadio Alfredo Di Stéfano,Real Madrid,Alaves,0.11,0.67,0.23,A
+350,36,12-07-2020 21:00,Mendizorrotza,Alaves,Getafe,0.09,0.73,0.19,A
+351,36,12-07-2020 21:00,Wanda Metropolitano,Ath Madrid,Betis,0.54,0.15,0.32,H
+352,36,12-07-2020 21:00,RCDE Stadium,Espanol,Eibar,0.34,0.32,0.35,D
+353,36,12-07-2020 21:00,Nuevo Los Cármenes,Granada,Real Madrid,0.21,0.59,0.21,A
+354,36,12-07-2020 21:00,Estadio Municipal de Butarque,Leganes,Valencia,0.47,0.22,0.32,H
+355,36,12-07-2020 21:00,Estadio Camilo Cano,Levante,Ath Bilbao,0.97,,0.04,H
+356,36,12-07-2020 21:00,El Sadar,Osasuna,Celta,0.55,0.25,0.21,H
+357,36,12-07-2020 21:00,Ramón Sánchez Pizjuán,Sevilla,Mallorca,0.43,0.32,0.26,H
+358,36,12-07-2020 21:00,Estadio de la Cerámica,Villarreal,Sociedad,0.62,0.14,0.25,H
+359,36,12-07-2020 21:00,José Zorrilla,Valladolid,Barcelona,0.15,0.62,0.24,A
+360,37,15-07-2020 21:00,San Mamés,Ath Bilbao,Leganes,0.48,0.22,0.31,H
+361,37,15-07-2020 21:00,Camp Nou,Barcelona,Osasuna,0.61,0.26,0.14,H
+362,37,15-07-2020 21:00,Benito Villamarín,Betis,Alaves,0.46,0.32,0.23,H
+363,37,15-07-2020 21:00,Abanca-Balaídos,Celta,Levante,0.83,0.1,0.08,H
+364,37,15-07-2020 21:00,Ipurua Municipal Stadium,Eibar,Valladolid,0.95,0.02,0.04,H
+365,37,15-07-2020 21:00,Coliseum Alfonso Pérez,Getafe,Ath Madrid,0.18,0.53,0.3,A
+366,37,15-07-2020 21:00,Estadi de Son Moix,Mallorca,Granada,0.58,0.23,0.2,H
+367,37,15-07-2020 21:00,Estadio Alfredo Di Stéfano,Real Madrid,Villarreal,0.5,0.32,0.19,H
+368,37,15-07-2020 21:00,Anoeta,Sociedad,Sevilla,0.15,0.66,0.2,A
+369,37,15-07-2020 21:00,Mestalla,Valencia,Espanol,0.79,0.05,0.17,H
+370,38,19-07-2020 21:00,Mendizorrotza,Alaves,Barcelona,0.32,0.2,0.49,D
+371,38,19-07-2020 21:00,Wanda Metropolitano,Ath Madrid,Sociedad,0.38,0.36,0.27,H
+372,38,19-07-2020 21:00,RCDE Stadium,Espanol,Celta,0.65,0.14,0.22,H
+373,38,19-07-2020 21:00,Nuevo Los Cármenes,Granada,Ath Bilbao,0.52,0.28,0.21,H
+374,38,19-07-2020 21:00,Estadio Municipal de Butarque,Leganes,Real Madrid,0.45,0.22,0.34,H
+375,38,19-07-2020 21:00,Estadio Camilo Cano,Levante,Getafe,0.63,0.19,0.19,H
+376,38,19-07-2020 21:00,El Sadar,Osasuna,Mallorca,0.34,0.44,0.23,A
+377,38,19-07-2020 21:00,Ramón Sánchez Pizjuán,Sevilla,Valencia,0.09,0.71,0.21,A
+378,38,19-07-2020 21:00,Estadio de la Cerámica,Villarreal,Eibar,0.44,0.23,0.34,H
+379,38,19-07-2020 21:00,José Zorrilla,Valladolid,Betis,0.6,0.17,0.24,H

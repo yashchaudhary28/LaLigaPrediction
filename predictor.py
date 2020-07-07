@@ -5,6 +5,7 @@ from collections import Counter
 import concurrent.futures
 import time
 
+matches = []
 t1 = time.perf_counter()
 #For removing the SettingsWithCopyWarning, which says we are using copy istead of the orginal file.
 pd.options.mode.chained_assignment = None
@@ -67,7 +68,7 @@ def get_score(Home, Away, nsim):
     lst_keys = list(Counter(result).keys())
     matches.append(dict(zip(lst_keys, final_values)))
 
-nsim = 10000
+nsim = 100
 ziped = list(zip(list(new_season.HomeTeam), list(new_season.AwayTeam)))
 # We can use a with statement to ensure threads are cleaned up promptly
 with concurrent.futures.ThreadPoolExecutor(max_workers=400) as executor:
